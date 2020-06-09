@@ -1,0 +1,13 @@
+{
+  "name": "ts2742",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@gist.git.musta.ch:53a991beec36a62b6ece160eb5f17a0f.git",
+  "author": "Brie <723547+brieb@users.noreply.github.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@types/react": "^16.9.35",
+    "@types/react-router-dom": "^5.1.5",
+    "typescript": "^3.9.5"
+  }
+}
